@@ -5,4 +5,4 @@
         console.log('Connect function for ' + crm + ' is not implemented yet.');
     }
 }
-// v 0.06 04-20
+// v 0.07 04-21
